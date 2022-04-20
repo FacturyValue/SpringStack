@@ -1,0 +1,384 @@
+DELETE http://localhost:8080/api/v1/student/10
+
+<> 2022-04-16T113512.500.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy&email=alex@gmail.com
+Content-Type: application/json
+
+<> 2022-04-16T113424.500.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=aven&email=alex@gmail.com
+Content-Type: application/json
+
+<> 2022-04-16T113312.500.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?email=alex@gmail.com
+Content-Type: application/json
+
+<> 2022-04-16T113218.500.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?email=sirniclolas@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?email=sirniclolas@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?email=sirniclolas@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/10?name=rudy
+Content-Type: application/json
+
+<> 2022-04-16T112626.500.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy&email=sirnicloas@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy&email=sirnicloas@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/api/v1/student/
+
+<> 2022-04-16T111927.200.json
+
+###
+
+GET http://localhost:8080/api/v1/student/
+
+<> 2022-04-16T111744.200.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/api/v1/student/
+
+<> 2022-04-16T111457.200.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+<> 2022-04-16T111124.405.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=rudy
+Content-Type: application/json
+
+<> 2022-04-16T111056.405.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2022-04-16T102532.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2022-04-16T102448.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2022-04-16T102447-1.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2022-04-16T102447.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2022-04-16T102442.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2022-04-16T102408.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+###
+
+GET http://localhost:8080/api/v1/student/
+
+<> 2022-04-16T102212.200.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102050.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102049.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102048.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102047-1.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102047.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102044.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T102038.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T101104.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T101027.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T100931.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T100840.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+<> 2022-04-16T100809.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student/
+Content-Type: application/json
+
+{
+  "name": "rudy",
+  "email": "sirniclolas@gmail.com",
+  "dob": "1994-08-05"
+}
+
+###
+

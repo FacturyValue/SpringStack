@@ -1,0 +1,15 @@
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\common\ResultCode.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\mbg\model\PmsBrandExample.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\mbg\mapper\PmsBrandMapper.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\controller\PmsBrandController.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\mbg\Generator.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\common\CommonPage.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\service\impl\PmsBrandServiceImpl.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\common\CommonResult.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\common\IErrorCode.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\DemoTinyApplication.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\config\MyBatisConfig.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\config\Swagger2Config.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\mbg\CommentGenerator.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\mbg\model\PmsBrand.java
+D:\dev\framework\spring\SpringStack\chapter1\tiny-mybatis\src\main\java\com\rudy\demo\tiny\service\PmsBrandService.java

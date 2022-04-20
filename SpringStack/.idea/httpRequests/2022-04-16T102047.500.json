@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-04-16T14:20:47.103+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "email token",
+  "path": "/api/v1/student/"
+}

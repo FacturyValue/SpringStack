@@ -1,0 +1,31 @@
+package com.springboot.java.filter;
+
+import javax.servlet.*;
+import java.io.IOException;
+
+public class MyFilter implements Filter {
+    boolean flag;
+
+    public boolean isFlag() {
+        return flag;
+    }
+
+    public void setFlag(boolean flag) {
+        this.flag = flag;
+    }
+
+    @Override
+    public void init(FilterConfig filterConfig) throws ServletException {
+
+    }
+
+    @Override
+    public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
+
+    }
+
+    @Override
+    public void destroy() {
+
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-04-16T15:35:12.749+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "student with id 10 does not exists",
+  "path": "/api/v1/student/10"
+}
